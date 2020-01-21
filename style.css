@@ -1,0 +1,41 @@
+            body {
+                background-size: 1500px;
+                background-image:url(https://c.stocksy.com/a/hlb300/z9/860169.jpg?1574808029)
+                /*background-color:#dd1923;
+                background-image: linear-gradient(to right, black, linen );*/
+                
+            }
+
+            .mybio {
+                color: white;
+                background-color: orange;
+                opacity: 70%;
+                margin-right: 1150px;
+                border-radius: 7px;
+                padding-left: 7px;
+                
+            }    
+
+            .myname {
+
+                color: white;
+                background-color: orange;
+                opacity: 70%;
+                margin-right: 1150px;
+                border-radius: 7px;
+                padding-left: 7px;
+            }
+
+            .text {
+                color: white;
+                background-color: orange;
+                opacity: 70%;
+                margin-right: 1150px;
+                border-radius: 7px;
+                padding-left: 7px; 
+            }
+
+            .image {
+                border-radius: 7px;
+            }
+            
